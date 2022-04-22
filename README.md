@@ -15,6 +15,7 @@ This project was made by: [@brunosoares99](https://github.com/brunosoares99).
 ![Screenshot 3](https://github.com/brunosoares99/moviesflix/blob/main/screenshots/screen3.png)
 ![Screenshot 4](https://github.com/brunosoares99/moviesflix/blob/main/screenshots/screen4.png)
 ![Screenshot 5](https://github.com/brunosoares99/moviesflix/blob/main/screenshots/screen5.png)
+![Screenshot 6](https://github.com/brunosoares99/moviesflix/blob/main/screenshots/screen6.png)
 
 
 
